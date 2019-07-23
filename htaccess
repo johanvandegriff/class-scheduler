@@ -1,0 +1,4 @@
+AuthName "Editing Subjects and Classes"
+AuthType Basic
+AuthUserFile [redacted]
+require valid-user

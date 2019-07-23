@@ -1,0 +1,180 @@
+[
+    [
+        "ESOL or English",
+        4,
+        "",
+        [
+            "ESOL 1A",
+            "ESOL 1B",
+            "ESOL 2A",
+            "ESOL 2B",
+            "ESOL 3A",
+            "ESOL 3B",
+            "ESOL 4A",
+            "ESOL 4B",
+            "ESOL 5A",
+            "ESOL 5B",
+            "Eng 9A",
+            "Eng 9B",
+            "Eng 10A",
+            "Eng 10B",
+            "Eng 11A",
+            "Eng 11B",
+            "Eng 12A",
+            "Eng 12B"
+        ]
+    ],
+    [
+        "Science",
+        3,
+        "1 Bio, 1 Physical",
+        [
+            "Chem. A",
+            "Chem. B",
+            "Env A",
+            "Env B",
+            "Horticulture A",
+            "Horticulture B",
+            "Bio A",
+            "Bio B",
+            "Physical A",
+            "Physical B",
+            "Physics A",
+            "Physics B",
+            "Applied A",
+            "Applied B",
+            "Other A",
+            "Other B",
+            "Matt En A",
+            "Matt En B"
+        ]
+    ],
+    [
+        "Social Studies",
+        3,
+        "US, NSL, MW",
+        [
+            "US A",
+            "US B",
+            "NSL A",
+            "NSL B",
+            "MWH A",
+            "MWH B",
+            "Other A",
+            "Other B"
+        ]
+    ],
+    [
+        "Math",
+        4,
+        "Algebra and Geometry",
+        [
+            "MAPS A",
+            "MAPS B",
+            "Alg 1A",
+            "Alg 1B",
+            "Geom A",
+            "Geom B",
+            "Rel A",
+            "Rel B",
+            "Geom Sup A",
+            "Geom Sup B",
+            "Bridge Alg 2A",
+            "Bridge Alg 2B",
+            "Alg 2A ",
+            "Alg 2B"
+        ]
+    ],
+    [
+        "World Language",
+        2,
+        "",
+        [
+            "Span 1A",
+            "Span 1B",
+            "Span 2A",
+            "Span 2B",
+            "Spkr 1A",
+            "Spkr 1B",
+            "Spkr 2A",
+            "Spkr 2B",
+            "Spkr 3A",
+            "Spkr 3B",
+            "Other A",
+            "Other B"
+        ]
+    ],
+    [
+        "Technology",
+        1,
+        "Found, Int Eng, Des",
+        [
+            "Found. A",
+            "Found. B",
+            "Intr Eng A",
+            "Intr Eng B",
+            "Other A",
+            "Other B"
+        ]
+    ],
+    [
+        "Health",
+        1,
+        "",
+        [
+            "Health A",
+            "Health B"
+        ]
+    ],
+    [
+        "Physical Education",
+        1,
+        "",
+        [
+            "Gen 1",
+            "Gen 2",
+            "Soccer A",
+            "Soccer B",
+            "Other A",
+            "Other B"
+        ]
+    ],
+    [
+        "Fine Arts",
+        1,
+        "",
+        [
+            "Found A",
+            "Found B",
+            "Ceram A",
+            "Ceram B",
+            "Other A ",
+            "Other B"
+        ]
+    ],
+    [
+        "New Subject",
+        1,
+        "",
+        [
+            "ESOL 1/2 1A",
+            "ESOL 1/2 1B",
+            "ESOL 1/2 2A",
+            "ESOL 1/2 2B",
+            "ESOL Lab A",
+            "ESOL Lab B",
+            "US Cult A",
+            "US Cult B",
+            "METS ESOL A",
+            "METS ESOL B",
+            "Reading A",
+            "Reading B",
+            "Acad Lang A",
+            "Acad Lang B",
+            "Lang of Math A",
+            "Lang of Math B",
+            "Other A ",
+            "Other B"
+        ]
+    ]
+]
